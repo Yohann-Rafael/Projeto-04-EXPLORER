@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 03 Explorer </h1>
+<h1 align="center"> Projeto 04 Explorer </h1>
 
 <p align="center">
 Desenvolvido durante as aulas do Explorer na plataforma da Rocketseat.
